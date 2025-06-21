@@ -1,0 +1,30 @@
+{
+  "transaction_id": "TX-2025-87342",
+  "timestamp": "2025-06-01T02:14:37Z",
+  "account_info": {
+    "account_number": "******8765",
+    "holder": "John Smith"
+  },
+  "transaction_details": {
+    "type": "transfer",
+    "amount": 24999.99,
+    "currency": "USD",
+    "destination": {
+      "bank_code": "UNKN7788",
+      "account": "******1234",
+      "country": "CY"
+    }
+  },
+  "risk_indicators": {
+    "unusual_time": true,
+    "unusual_amount": true,
+    "unusual_destination": true,
+    "velocity_check": "failed",
+    "risk_score": 89
+  },
+  "ip_address": "203.0.113.25",
+  "device_fingerprint": "b97ff887e339f78",
+  "previous_similar_attempts": 3,
+  "authentication_method": "password_only",
+  "status": "pending_review"
+}

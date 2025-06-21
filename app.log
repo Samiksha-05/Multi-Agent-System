@@ -1,0 +1,1466 @@
+2025-05-30 18:48:06,507 - api.main - INFO - File uploaded: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Document ID: 0ccba051-8b1d-4999-8c33-aa32088d4a93
+2025-05-30 20:29:07,786 - api.main - INFO - File uploaded: Tejaswini Koppada (s).pdf, Document ID: f532cee1-d081-43a3-ad6e-813fa3a739c9
+2025-05-30 20:46:32,787 - api.main - INFO - File uploaded: swecha teju.pdf, Document ID: 0cb2be39-edc6-4165-b4f0-702163965c57
+2025-05-30 20:53:03,806 - api.main - INFO - File uploaded: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Document ID: b7929901-7371-45a5-8577-b587264f045f
+2025-05-30 20:53:53,621 - api.main - INFO - File uploaded: offer letter 1m1b.pdf, Document ID: 53f11c63-a67c-46c2-817e-aa436e023578
+2025-05-30 20:59:00,001 - api.main - INFO - File uploaded: Tejaswini.pdf, Document ID: a3a50729-24fb-4e43-9211-5c9602b8b43c
+2025-05-30 21:02:23,752 - api.main - INFO - File uploaded: Tejaswini.pdf, Document ID: 33bf11d2-4083-487d-add0-c129d51fff23
+2025-05-30 21:05:28,154 - api.main - INFO - File uploaded: Tejaswini's Resume.pdf, Document ID: 5f7683a8-261e-4f9e-b313-de5560fe5944
+2025-05-30 21:07:08,806 - api.main - INFO - File uploaded: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Document ID: 6633da25-f948-4b41-a09f-3176477e0c26
+2025-05-30 22:34:58,499 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Complaint
+2025-05-30 22:53:16,031 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Complaint
+2025-05-30 22:53:16,199 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-30 22:53:48,157 - api.main - INFO - File classified: Tejaswini Koppada.pdf, Format: pdf, Intent: Regulation
+2025-05-30 22:53:48,241 - api.main - INFO - PDF processed: Tejaswini Koppada.pdf, Type: report
+2025-05-30 22:54:04,552 - api.main - INFO - File classified: Tejaswini's Resume.pdf, Format: pdf, Intent: Regulation
+2025-05-30 22:54:04,634 - api.main - INFO - PDF processed: Tejaswini's Resume.pdf, Type: general_document
+2025-05-30 22:54:46,647 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Complaint
+2025-05-30 22:54:46,794 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-30 22:57:50,045 - api.main - INFO - File classified: Tejaswini's Resume.pdf, Format: pdf, Intent: Regulation
+2025-05-30 22:57:50,151 - api.main - INFO - PDF processed: Tejaswini's Resume.pdf, Type: general_document
+2025-05-30 23:08:05,030 - api.main - INFO - File classified: Tejaswini's Resume.pdf, Format: pdf, Intent: Resume
+2025-05-30 23:08:05,112 - api.main - INFO - PDF processed: Tejaswini's Resume.pdf, Type: resume
+2025-05-30 23:08:25,929 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Resume
+2025-05-30 23:08:26,140 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-30 23:08:41,359 - api.main - INFO - File classified: Tejaswini.pdf, Format: pdf, Intent: Resume
+2025-05-30 23:08:41,446 - api.main - INFO - PDF processed: Tejaswini.pdf, Type: resume
+2025-05-30 23:08:57,478 - api.main - INFO - File classified: offer letter 1m1b.pdf, Format: pdf, Intent: Resume
+2025-05-30 23:08:57,652 - api.main - INFO - PDF processed: offer letter 1m1b.pdf, Type: resume
+2025-05-30 23:09:37,140 - api.main - INFO - File classified: swecha teju.pdf, Format: pdf, Intent: unknown
+2025-05-30 23:09:37,160 - api.main - INFO - PDF processed: swecha teju.pdf, Type: general_document
+2025-05-30 23:10:01,376 - api.main - INFO - File classified: csa bits.pdf, Format: pdf, Intent: Regulation
+2025-05-30 23:10:03,418 - api.main - INFO - PDF processed: csa bits.pdf, Type: general_document
+2025-05-30 23:12:05,905 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Resume
+2025-05-30 23:12:06,037 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-30 23:12:41,618 - api.main - INFO - File classified: Tejaswini Koppada.pdf, Format: pdf, Intent: Resume
+2025-05-30 23:12:41,746 - api.main - INFO - PDF processed: Tejaswini Koppada.pdf, Type: resume
+2025-05-30 23:13:18,132 - api.main - INFO - File classified: CSADump[Imp].pdf, Format: pdf, Intent: Resume
+2025-05-30 23:13:19,480 - api.main - INFO - PDF processed: CSADump[Imp].pdf, Type: resume
+2025-05-30 23:36:49,087 - api.main - INFO - File classified: CAD150.pdf, Format: pdf, Intent: Educational
+2025-05-30 23:36:50,530 - api.main - INFO - PDF processed: CAD150.pdf, Type: educational_material
+2025-05-30 23:37:47,540 - api.main - INFO - File classified: ilovepdf_merged.pdf, Format: pdf, Intent: Educational
+2025-05-30 23:38:15,902 - api.main - INFO - PDF processed: ilovepdf_merged.pdf, Type: educational_material
+2025-05-30 23:38:16,063 - api.main - INFO - File classified: 1630_SAMIKSHA YADAV.pdf, Format: pdf, Intent: Resume
+2025-05-30 23:38:16,178 - api.main - INFO - PDF processed: 1630_SAMIKSHA YADAV.pdf, Type: educational_material
+2025-05-30 23:38:58,090 - api.main - INFO - File classified: day 6 - SLA.pdf, Format: pdf, Intent: Educational
+2025-05-30 23:38:58,341 - api.main - INFO - PDF processed: day 6 - SLA.pdf, Type: educational_material
+2025-05-30 23:53:28,122 - api.main - INFO - File classified: sample.eml, Format: email, Intent: Educational
+2025-05-30 23:53:28,144 - api.main - INFO - Email processed: sample.eml, Type: general
+2025-05-30 23:53:43,543 - api.main - INFO - File classified: sample.json, Format: json, Intent: Educational
+2025-05-30 23:53:43,545 - api.main - ERROR - Error processing JSON: 'max_depth'
+2025-05-31 00:07:44,472 - api.main - INFO - File classified: sample.eml, Format: email, Intent: Educational
+2025-05-31 00:07:44,496 - api.main - INFO - Email processed: sample.eml, Type: general
+2025-05-31 00:16:58,503 - api.main - INFO - File classified: sample.json, Format: json, Intent: Educational
+2025-05-31 00:16:58,504 - api.main - ERROR - Error processing JSON: 'max_depth'
+2025-05-31 00:16:58,511 - api.main - ERROR - Error re-processing document: 'max_depth'
+2025-05-31 00:17:01,465 - api.main - ERROR - Error re-processing document: 'max_depth'
+2025-05-31 00:17:10,328 - api.main - INFO - File classified: sample.json, Format: json, Intent: Educational
+2025-05-31 00:17:10,329 - api.main - ERROR - Error processing JSON: 'max_depth'
+2025-05-31 00:17:10,335 - api.main - ERROR - Error re-processing document: 'max_depth'
+2025-05-31 09:57:29,169 - api.main - INFO - File classified: sample.json, Format: json, Intent: Educational
+2025-05-31 09:57:29,169 - api.main - INFO - Processing JSON file: sample.json
+2025-05-31 09:57:29,181 - agents.json_agent - INFO - JSON analysis stored for document 4b1b256f-8239-47bc-a025-cef33c728667: api_response
+2025-05-31 09:57:29,181 - api.main - INFO - JSON processed: sample.json, Type: api_response
+2025-05-31 09:57:29,203 - api.main - INFO - Showing results for document 4b1b256f-8239-47bc-a025-cef33c728667, status: analyzed
+2025-05-31 09:57:51,797 - api.main - INFO - File classified: sample.eml, Format: email, Intent: Educational
+2025-05-31 09:57:51,826 - api.main - INFO - Email processed: sample.eml, Type: general
+2025-05-31 09:57:51,843 - api.main - INFO - Showing results for document 2624793b-c96f-4b3d-91b9-df4ecb05cd5f, status: analyzed
+2025-05-31 09:58:19,990 - api.main - INFO - File classified: CTS Interview - How to Join - Issues - Previous Qs (1).pdf, Format: pdf, Intent: Educational
+2025-05-31 09:58:21,791 - api.main - INFO - PDF processed: CTS Interview - How to Join - Issues - Previous Qs (1).pdf, Type: educational_material
+2025-05-31 09:58:21,815 - api.main - INFO - Showing results for document 83a61c70-b87f-47fd-a991-5bbeb054551c, status: analyzed
+2025-05-31 10:21:12,536 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Resume
+2025-05-31 10:21:12,901 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-31 10:21:46,779 - api.main - INFO - File classified: Tejaswini's Resume.pdf, Format: pdf, Intent: Resume
+2025-05-31 10:21:47,034 - api.main - INFO - PDF processed: Tejaswini's Resume.pdf, Type: resume
+2025-05-31 10:22:15,245 - api.main - INFO - File classified: sample.eml, Format: email, Intent: Educational
+2025-05-31 10:22:15,254 - api.main - INFO - Email processed: sample.eml, Type: general
+2025-05-31 10:22:22,822 - api.main - INFO - File classified: sample.json, Format: json, Intent: Educational
+2025-05-31 10:22:22,823 - api.main - INFO - Processing JSON file: sample.json
+2025-05-31 10:22:22,827 - agents.json_agent - INFO - JSON analysis stored for document ed4c6aa2-217a-43f5-b710-3907054c4643: api_response
+2025-05-31 10:22:22,828 - api.main - INFO - JSON processed: sample.json, Type: api_response
+2025-05-31 10:27:35,811 - api.main - INFO - File classified: sample.json, Format: json, Intent: Educational
+2025-05-31 10:27:35,813 - api.main - INFO - Processing JSON file: sample.json
+2025-05-31 10:27:35,816 - agents.json_agent - INFO - JSON analysis stored for document b2abc207-dedf-4b25-8770-0088c03b835b: api_response
+2025-05-31 10:27:35,816 - api.main - INFO - JSON processed: sample.json, Type: api_response
+2025-05-31 10:33:22,079 - api.main - INFO - File classified: sample.eml, Format: email, Intent: Educational
+2025-05-31 10:33:22,088 - api.main - INFO - Email processed: sample.eml, Type: general
+2025-05-31 10:33:44,981 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Resume
+2025-05-31 10:33:45,381 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-31 11:08:32,976 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Resume
+2025-05-31 11:08:32,982 - utils.nlp_utils - ERROR - Error extracting entities: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\prudh/nltk_data'
+    - 'C:\\Users\\prudh\\Desktop\\multi-agent-system\\venv\\nltk_data'
+    - 'C:\\Users\\prudh\\Desktop\\multi-agent-system\\venv\\share\\nltk_data'
+    - 'C:\\Users\\prudh\\Desktop\\multi-agent-system\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\prudh\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-31 11:08:32,983 - utils.nlp_utils - ERROR - Error extracting topics: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\prudh/nltk_data'
+    - 'C:\\Users\\prudh\\Desktop\\multi-agent-system\\venv\\nltk_data'
+    - 'C:\\Users\\prudh\\Desktop\\multi-agent-system\\venv\\share\\nltk_data'
+    - 'C:\\Users\\prudh\\Desktop\\multi-agent-system\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\prudh\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-31 11:08:32,987 - utils.nlp_utils - ERROR - Error calculating sentiment: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\prudh/nltk_data'
+    - 'C:\\Users\\prudh\\Desktop\\multi-agent-system\\venv\\nltk_data'
+    - 'C:\\Users\\prudh\\Desktop\\multi-agent-system\\venv\\share\\nltk_data'
+    - 'C:\\Users\\prudh\\Desktop\\multi-agent-system\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\prudh\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-31 11:08:32,989 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-31 11:10:59,970 - api.main - INFO - File classified: Tejaswini's Resume.pdf, Format: pdf, Intent: Resume
+2025-05-31 11:11:00,044 - api.main - INFO - PDF processed: Tejaswini's Resume.pdf, Type: resume
+2025-05-31 11:11:25,340 - api.main - INFO - File classified: Tejaswini_.pdf, Format: pdf, Intent: Resume
+2025-05-31 11:11:25,444 - api.main - INFO - PDF processed: Tejaswini_.pdf, Type: resume
+2025-05-31 11:11:37,154 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Resume
+2025-05-31 11:11:37,284 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-31 11:13:18,644 - api.main - INFO - File classified: Tejaswini Koppada.pdf, Format: pdf, Intent: Resume
+2025-05-31 11:13:18,731 - api.main - INFO - PDF processed: Tejaswini Koppada.pdf, Type: resume
+2025-05-31 11:13:33,724 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Resume
+2025-05-31 11:13:33,872 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-31 11:20:47,241 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Resume
+2025-05-31 11:20:47,361 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-31 12:31:09,207 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Invoice
+2025-05-31 12:31:09,349 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-31 12:42:44,980 - api.main - INFO - File classified: sample2.pdf, Format: pdf, Intent: Invoice
+2025-05-31 12:42:45,020 - api.main - INFO - PDF processed: sample2.pdf, Type: general_document
+2025-05-31 12:43:48,547 - api.main - INFO - File classified: sample2.eml, Format: email, Intent: Complaint
+2025-05-31 12:43:48,552 - api.main - INFO - Email processed: sample2.eml, Type: transactional
+2025-05-31 12:46:44,552 - api.main - INFO - File classified: sample2.json, Format: json, Intent: Invoice
+2025-05-31 12:46:44,553 - api.main - INFO - Processing JSON file: sample2.json
+2025-05-31 12:46:44,554 - agents.json_agent - INFO - JSON analysis stored for document 6502b636-0f84-49f5-9b41-bfaee3d431a9: api_response
+2025-05-31 12:46:44,554 - api.main - INFO - JSON processed: sample2.json, Type: api_response
+2025-05-31 12:50:55,931 - api.main - INFO - File classified: sample3.json, Format: json, Intent: Invoice
+2025-05-31 12:50:55,933 - api.main - INFO - Processing JSON file: sample3.json
+2025-05-31 12:50:55,933 - agents.json_agent - INFO - JSON analysis stored for document 8a089a6a-8728-4981-8df9-2ecda86a8758: api_response
+2025-05-31 12:50:55,934 - api.main - INFO - JSON processed: sample3.json, Type: api_response
+2025-05-31 12:52:29,156 - api.main - INFO - File classified: sample3.eml, Format: email, Intent: RFQ
+2025-05-31 12:52:29,159 - api.main - INFO - Email processed: sample3.eml, Type: inquiry
+2025-05-31 12:52:34,014 - router.action_router - INFO - [SIMULATION] POST http://localhost:8001/crm/tickets: {"document_id": "6b11a685-10cf-4ad7-91af-44899f894097", "ticket_type": "rfq", "from_email": "business@potential-client.com", "subject": "Request for Quote - Enterprise Software Solution", "priority": "low", "timestamp": "2025-05-31T07:22:34.014856"}
+2025-05-31 12:56:57,473 - router.action_router - INFO - [SIMULATION] POST http://localhost:8001/crm/tickets: {"document_id": "6b11a685-10cf-4ad7-91af-44899f894097", "ticket_type": "rfq", "from_email": "business@potential-client.com", "subject": "Request for Quote - Enterprise Software Solution", "priority": "low", "timestamp": "2025-05-31T07:26:57.473410"}
+2025-05-31 13:23:45,824 - api.main - INFO - File classified: sample3.eml, Format: email, Intent: RFQ
+2025-05-31 13:23:45,831 - api.main - INFO - Email processed: sample3.eml, Type: inquiry
+2025-05-31 13:43:00,608 - api.main - INFO - File classified: sample2.eml, Format: email, Intent: Complaint
+2025-05-31 13:43:00,612 - api.main - INFO - Email processed: sample2.eml, Type: transactional
+2025-05-31 13:45:57,737 - api.main - INFO - File classified: sample3.json, Format: json, Intent: Invoice
+2025-05-31 13:45:57,737 - api.main - INFO - Processing JSON file: sample3.json
+2025-05-31 13:45:57,740 - agents.json_agent - INFO - JSON analysis stored for document 95289336-6878-4f1d-b00f-beaaf24fa94c: api_response
+2025-05-31 13:45:57,741 - api.main - INFO - JSON processed: sample3.json, Type: api_response
+2025-05-31 18:55:20,525 - api.main - INFO - File classified: sample2.eml, Format: email, Intent: Complaint
+2025-05-31 18:55:20,532 - api.main - INFO - Email processed: sample2.eml, Type: transactional
+2025-05-31 18:55:25,508 - router.action_router - INFO - [SIMULATION] POST http://localhost:8001/crm/escalate: {"document_id": "581385e8-9c51-4fbe-8f88-7f2aea07fce4", "escalation_reason": "High urgency Complaint", "from_email": "customer@example.com", "subject": "URGENT: Extremely Disappointed with Recent Order", "priority": "high", "timestamp": "2025-05-31T13:25:25.508636"}
+2025-05-31 19:30:35,315 - api.main - INFO - File classified: Tejaswini_.pdf, Format: pdf, Intent: Invoice
+2025-05-31 19:30:35,386 - api.main - INFO - PDF processed: Tejaswini_.pdf, Type: resume
+2025-05-31 19:30:47,357 - api.main - INFO - File classified: Tejaswini Koppada.pdf, Format: pdf, Intent: Invoice
+2025-05-31 19:30:47,413 - api.main - INFO - PDF processed: Tejaswini Koppada.pdf, Type: resume
+2025-05-31 19:31:01,677 - api.main - INFO - File classified: Tejaswini_.pdf, Format: pdf, Intent: Invoice
+2025-05-31 19:31:01,736 - api.main - INFO - PDF processed: Tejaswini_.pdf, Type: resume
+2025-05-31 19:31:42,932 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Format: pdf, Intent: Invoice
+2025-05-31 19:31:43,040 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year new.pdf, Type: resume
+2025-05-31 19:32:01,450 - api.main - INFO - File classified: sample3.eml, Format: email, Intent: RFQ
+2025-05-31 19:32:01,452 - api.main - INFO - Email processed: sample3.eml, Type: inquiry
+2025-05-31 19:32:16,245 - router.action_router - INFO - [SIMULATION] POST http://localhost:8001/crm/tickets: {"document_id": "23c16466-6c16-4c19-9af9-f30a6c9a240d", "ticket_type": "rfq", "from_email": "business@potential-client.com", "subject": "Request for Quote - Enterprise Software Solution", "priority": "low", "timestamp": "2025-05-31T14:02:16.245531"}
+2025-05-31 20:42:17,020 - api.main - INFO - File classified: sample_pdf3.pdf, Format: pdf, Intent: Invoice
+2025-05-31 20:42:17,041 - api.main - INFO - PDF processed: sample_pdf3.pdf, Type: invoice
+2025-05-31 20:45:57,626 - api.main - INFO - File classified: sample4.eml, Format: email, Intent: Complaint
+2025-05-31 20:45:57,628 - api.main - INFO - Email processed: sample4.eml, Type: transactional
+2025-05-31 20:46:05,913 - router.action_router - INFO - [SIMULATION] POST http://localhost:8001/crm/escalate: {"document_id": "74d05f9f-f743-475c-9568-73eae08a82eb", "escalation_reason": "High urgency Complaint", "from_email": "customer@example.com", "subject": "Complaint about recent order #1234", "priority": "high", "timestamp": "2025-05-31T15:16:05.913193"}
+2025-05-31 20:47:20,975 - api.main - INFO - File classified: sample_pdf3 (1).pdf, Format: pdf, Intent: Invoice
+2025-05-31 20:47:20,989 - api.main - INFO - PDF processed: sample_pdf3 (1).pdf, Type: general_document
+2025-05-31 21:12:01,207 - agents.classifier_agent - INFO - Document classified: Format=pdf, Intent=regulation, Confidence=0.95
+2025-05-31 21:12:01,207 - api.main - INFO - File classified: sample_pdf3 (1).pdf, Format: pdf, Intent: regulation
+2025-05-31 21:12:01,219 - agents.pdf_agent - INFO - PDF processed: Type=policy, Pages=1
+2025-05-31 21:12:01,220 - api.main - INFO - PDF processed: sample_pdf3 (1).pdf, Type: policy
+2025-05-31 21:14:00,216 - agents.classifier_agent - INFO - Document classified: Format=email, Intent=complaint, Confidence=0.50
+2025-05-31 21:14:00,217 - api.main - INFO - File classified: sample4.eml, Format: email, Intent: complaint
+2025-05-31 21:14:00,219 - api.main - INFO - Email processed: sample4.eml, Type: transactional
+2025-05-31 21:15:12,126 - agents.classifier_agent - INFO - Document classified: Format=pdf, Intent=invoice, Confidence=0.83
+2025-05-31 21:15:12,126 - api.main - INFO - File classified: sample2.pdf, Format: pdf, Intent: invoice
+2025-05-31 21:15:12,143 - agents.pdf_agent - INFO - PDF processed: Type=invoice, Pages=1
+2025-05-31 21:15:12,143 - api.main - INFO - PDF processed: sample2.pdf, Type: invoice
+2025-05-31 21:15:27,080 - router.action_router - INFO - Triggered compliance review for document 2e5f5a7e-dd6a-4aed-a17a-fcd9a3e4fb56
+2025-05-31 21:22:22,774 - agents.classifier_agent - INFO - Document classified: Format=email, Intent=complaint, Confidence=0.50
+2025-05-31 21:22:22,775 - api.main - INFO - File classified: sample4.eml, Format: email, Intent: complaint
+2025-05-31 21:22:22,777 - api.main - INFO - Email processed: sample4.eml, Type: transactional
+2025-05-31 21:48:15,049 - api.main - INFO - File classified: sample_pdf3 (1).pdf, Format: pdf, Intent: Invoice
+2025-05-31 21:48:15,068 - api.main - INFO - PDF processed: sample_pdf3 (1).pdf, Type: general_document
+2025-05-31 21:48:48,644 - api.main - INFO - File classified: sample4.eml, Format: email, Intent: Complaint
+2025-05-31 21:48:48,649 - api.main - INFO - Email processed: sample4.eml, Type: transactional
+2025-05-31 21:52:33,003 - api.main - INFO - File classified: sample4.eml, Format: email, Intent: Complaint
+2025-05-31 21:52:33,008 - api.main - INFO - Email processed: sample4.eml, Type: transactional
+2025-05-31 21:52:36,267 - router.action_router - INFO - [SIMULATION] POST http://localhost:8001/crm/escalate: {"document_id": "7008e8ea-a3e8-4771-9c45-3403a32bac1c", "escalation_reason": "High urgency Complaint", "from_email": "customer@example.com", "subject": "Complaint about recent order #1234", "priority": "high", "timestamp": "2025-05-31T16:22:36.267722"}
+2025-05-31 22:12:41,963 - api.main - INFO - File classified: sample_pdf3 (1).pdf, Format: pdf, Intent: Invoice
+2025-05-31 22:12:42,009 - agents.pdf_agent - INFO - PDF processed: Type=policy, Pages=1
+2025-05-31 22:12:42,011 - api.main - INFO - PDF processed: sample_pdf3 (1).pdf, Type: policy
+2025-05-31 22:13:00,115 - api.main - INFO - File classified: sample4.eml, Format: email, Intent: Complaint
+2025-05-31 22:13:00,125 - api.main - INFO - Email processed: sample4.eml, Type: transactional
+2025-05-31 22:13:05,839 - router.action_router - INFO - [SIMULATION] POST http://localhost:8001/crm/escalate: {"document_id": "874a0914-ca89-4945-83d9-cdbd31280bc5", "escalation_reason": "High urgency Complaint", "from_email": "customer@example.com", "subject": "Complaint about recent order #1234", "priority": "high", "timestamp": "2025-05-31T16:43:05.839912"}
+2025-05-31 22:16:01,129 - api.main - INFO - File classified: sample5.eml, Format: email, Intent: RFQ
+2025-05-31 22:16:01,137 - api.main - INFO - Email processed: sample5.eml, Type: inquiry
+2025-05-31 22:17:41,057 - router.action_router - INFO - [SIMULATION] POST http://localhost:8001/crm/tickets: {"document_id": "7a014aab-83ea-484e-829a-06d2fd596186", "ticket_type": "rfq", "from_email": "potential.client@example.com", "subject": "Question about your services", "priority": "low", "timestamp": "2025-05-31T16:47:41.057300"}
+2025-05-31 22:18:28,134 - api.main - INFO - File classified: sample6.eml, Format: email, Intent: Complaint
+2025-05-31 22:18:28,137 - api.main - INFO - Email processed: sample6.eml, Type: transactional
+2025-05-31 22:18:40,692 - router.action_router - INFO - [SIMULATION] POST http://localhost:8001/crm/escalate: {"document_id": "02a2e96b-51d9-49ce-bd3b-95ec4a97714c", "escalation_reason": "High urgency Complaint", "from_email": "frustrated.customer@example.com", "subject": "URGENT! Completely UNACCEPTABLE service", "priority": "high", "timestamp": "2025-05-31T16:48:40.692081"}
+2025-05-31 22:34:38,924 - api.main - INFO - File classified: sample7.eml, Format: email, Intent: RFQ
+2025-05-31 22:34:38,928 - api.main - INFO - Email processed: sample7.eml, Type: inquiry
+2025-05-31 22:34:44,984 - router.action_router - INFO - [SIMULATION] POST http://localhost:8001/crm/tickets: {"document_id": "01ca46f5-fcdd-41ed-8d5a-d0ca3aa2d6fa", "ticket_type": "rfq", "from_email": "potential.client@example.com", "subject": "Question about your services", "priority": "low", "timestamp": "2025-05-31T17:04:44.984222"}
+2025-05-31 22:41:33,096 - api.main - INFO - File classified: sample4.json, Format: json, Intent: Complaint
+2025-05-31 22:41:33,097 - api.main - INFO - Processing JSON file: sample4.json
+2025-05-31 22:41:33,100 - agents.json_agent - INFO - JSON analysis stored for document ebd0e3c6-4561-4017-afa2-dbb14185024f: general
+2025-05-31 22:41:33,100 - api.main - INFO - JSON processed: sample4.json, Type: general
+2025-05-31 23:07:46,263 - api.main - INFO - File classified: sample4.json, Format: json, Intent: Complaint
+2025-05-31 23:07:46,264 - api.main - INFO - Processing JSON file: sample4.json
+2025-05-31 23:07:46,265 - agents.json_agent - INFO - Processing JSON file: temp_files/bfa716bb-dce2-4402-b1ac-02bf0f6d8ccb_sample4.json
+2025-05-31 23:07:46,271 - api.main - INFO - JSON processed: sample4.json, Type: complaint
+2025-05-31 23:07:59,052 - api.main - INFO - File classified: sample4.json, Format: json, Intent: Complaint
+2025-05-31 23:07:59,053 - api.main - INFO - Processing JSON file: sample4.json
+2025-05-31 23:07:59,054 - agents.json_agent - INFO - Processing JSON file: temp_files/ef550b83-bca2-40b5-b995-a236266044ef_sample4.json
+2025-05-31 23:07:59,056 - api.main - INFO - JSON processed: sample4.json, Type: complaint
+2025-05-31 23:21:21,034 - api.main - INFO - File classified: sample4.json, Format: json, Intent: Complaint
+2025-05-31 23:21:21,034 - api.main - INFO - Processing JSON file: sample4.json
+2025-05-31 23:21:21,036 - agents.json_agent - INFO - Processing JSON file: temp_files/284cb854-934e-4add-9aad-f5bc7100771b_sample4.json
+2025-05-31 23:21:21,039 - api.main - INFO - JSON processed: sample4.json, Type: complaint
+2025-05-31 23:22:17,922 - api.main - INFO - File classified: sample7.eml, Format: email, Intent: RFQ
+2025-05-31 23:22:17,931 - api.main - INFO - Email processed: sample7.eml, Type: inquiry
+2025-05-31 23:35:29,977 - api.main - INFO - File classified: sample4.json, Format: json, Intent: Complaint
+2025-05-31 23:35:29,977 - api.main - INFO - Processing JSON file: sample4.json
+2025-05-31 23:35:29,978 - agents.json_agent - INFO - Processing JSON file: temp_files/b15f1549-e2c4-4bbd-af1e-75de7b5ecb2e_sample4.json
+2025-05-31 23:35:29,981 - api.main - INFO - JSON processed: sample4.json, Type: complaint
+2025-05-31 23:35:54,176 - api.main - INFO - File classified: sample4.json, Format: json, Intent: Complaint
+2025-05-31 23:35:54,176 - api.main - INFO - Processing JSON file: sample4.json
+2025-05-31 23:35:54,178 - agents.json_agent - INFO - Processing JSON file: temp_files/2f521090-b282-41df-bb02-24fab0847c7b_sample4.json
+2025-05-31 23:35:54,180 - api.main - INFO - JSON processed: sample4.json, Type: complaint
+2025-05-31 23:36:21,426 - api.main - INFO - File classified: sample4.json, Format: json, Intent: Complaint
+2025-05-31 23:36:21,426 - api.main - INFO - Processing JSON file: sample4.json
+2025-05-31 23:36:21,429 - agents.json_agent - INFO - JSON analysis stored for document 4d91a039-f9f4-4856-851b-ec220ef2fa02: general
+2025-05-31 23:36:21,429 - api.main - INFO - JSON processed: sample4.json, Type: general
+2025-05-31 23:37:15,315 - api.main - INFO - File classified: sample4.json, Format: json, Intent: Complaint
+2025-05-31 23:37:15,319 - api.main - INFO - Processing JSON file: sample4.json
+2025-05-31 23:37:15,320 - agents.json_agent - INFO - JSON analysis stored for document 54b3845f-44fc-4a21-be13-c3e53bd302d7: general
+2025-05-31 23:37:15,320 - api.main - INFO - JSON processed: sample4.json, Type: general
+2025-05-31 23:37:21,001 - router.action_router - INFO - Routing action for document 54b3845f-44fc-4a21-be13-c3e53bd302d7: format=json, intent=Complaint
+2025-05-31 23:37:21,003 - router.action_router - INFO - No action taken for document 54b3845f-44fc-4a21-be13-c3e53bd302d7
+2025-05-31 23:50:14,850 - api.main - INFO - File classified: sample2 (1).json, Format: json, Intent: Fraud Risk
+2025-05-31 23:50:14,850 - api.main - INFO - Processing JSON file: sample2 (1).json
+2025-05-31 23:50:14,850 - agents.json_agent - INFO - JSON analysis stored for document b1f9216e-c32d-4d6e-89e3-cf8fc78e288b: general
+2025-05-31 23:50:14,852 - api.main - INFO - JSON processed: sample2 (1).json, Type: general
+2025-05-31 23:50:22,603 - router.action_router - INFO - Routing action for document b1f9216e-c32d-4d6e-89e3-cf8fc78e288b: format=json, intent=Fraud Risk
+2025-05-31 23:50:22,604 - router.action_router - INFO - No action taken for document b1f9216e-c32d-4d6e-89e3-cf8fc78e288b
+2025-06-01 00:10:21,401 - api.main - INFO - File classified: sample2 (1).json, Format: json, Intent: Fraud Risk
+2025-06-01 00:10:21,401 - api.main - INFO - Processing JSON file: sample2 (1).json
+2025-06-01 00:10:21,402 - agents.json_agent - INFO - Processing JSON file: temp_files/ffc6c5e5-ea2c-4063-b42f-94fe69a222f0_sample2 (1).json for document ffc6c5e5-ea2c-4063-b42f-94fe69a222f0
+2025-06-01 00:10:21,402 - agents.json_agent - INFO - JSON processing complete for ffc6c5e5-ea2c-4063-b42f-94fe69a222f0. Type: flat_object, Valid: True
+2025-06-01 00:10:21,402 - api.main - INFO - JSON processed: sample2 (1).json, Type: flat_object
+2025-06-01 00:10:30,024 - api.main - INFO - File classified: sample2 (1).json, Format: json, Intent: Fraud Risk
+2025-06-01 00:10:30,025 - api.main - INFO - Processing JSON file: sample2 (1).json
+2025-06-01 00:10:30,025 - agents.json_agent - INFO - Processing JSON file: temp_files/e793b815-1e74-45a7-bf00-3aadc786226b_sample2 (1).json for document e793b815-1e74-45a7-bf00-3aadc786226b
+2025-06-01 00:10:30,025 - agents.json_agent - INFO - JSON processing complete for e793b815-1e74-45a7-bf00-3aadc786226b. Type: flat_object, Valid: True
+2025-06-01 00:10:30,026 - api.main - INFO - JSON processed: sample2 (1).json, Type: flat_object
+2025-06-01 00:12:32,396 - api.main - INFO - File classified: sample2 (1).json, Format: json, Intent: Fraud Risk
+2025-06-01 00:12:32,396 - api.main - INFO - Processing JSON file: sample2 (1).json
+2025-06-01 00:12:32,396 - agents.json_agent - INFO - Processing JSON file: temp_files/32a8fc25-54b9-474b-8481-60fa34d2eea0_sample2 (1).json for document 32a8fc25-54b9-474b-8481-60fa34d2eea0
+2025-06-01 00:12:32,398 - agents.json_agent - INFO - JSON processing complete for 32a8fc25-54b9-474b-8481-60fa34d2eea0. Type: flat_object, Valid: True
+2025-06-01 00:12:32,398 - api.main - INFO - JSON processed: sample2 (1).json, Type: flat_object
+2025-06-01 00:16:21,477 - api.main - INFO - File classified: sample2 (1).json, Format: json, Intent: Fraud Risk
+2025-06-01 00:16:21,478 - api.main - INFO - Processing JSON file: sample2 (1).json
+2025-06-01 00:16:21,480 - agents.json_agent - INFO - JSON analysis stored for document 0eb1e24f-dccb-417c-beaf-4da1c07e4020: general
+2025-06-01 00:16:21,481 - api.main - INFO - JSON processed: sample2 (1).json, Type: general
+2025-06-01 00:50:21,607 - api.main - INFO - File classified: sample4.json, Format: json, Intent: Complaint
+2025-06-01 00:50:21,608 - api.main - INFO - Processing JSON file: sample4.json
+2025-06-01 00:50:21,609 - agents.json_agent - INFO - JSON analysis stored for document 5af7205d-a9fa-431f-8859-aa546e83120f: general
+2025-06-01 00:50:21,609 - api.main - INFO - JSON processed: sample4.json, Type: general
+2025-06-01 01:14:33,146 - api.main - INFO - File classified: sample4.eml, Format: email, Intent: Complaint
+2025-06-01 01:14:33,155 - api.main - INFO - Email processed: sample4.eml, Type: personal
+2025-06-01 01:20:19,072 - api.main - INFO - File classified: sample6.eml, Format: email, Intent: Complaint
+2025-06-01 01:20:19,074 - api.main - INFO - Email processed: sample6.eml, Type: general
+2025-06-01 01:22:00,386 - api.main - INFO - File classified: Koppada Prudhvi Vinayak Resume 4th year.pdf, Format: pdf, Intent: Invoice
+2025-06-01 01:22:00,677 - agents.pdf_agent - INFO - PDF processed: Type=general_document, Pages=1
+2025-06-01 01:22:00,677 - api.main - INFO - PDF processed: Koppada Prudhvi Vinayak Resume 4th year.pdf, Type: general_document
+2025-06-01 01:22:58,455 - api.main - INFO - File classified: sample2 (1).json, Format: json, Intent: Fraud Risk
+2025-06-01 01:22:58,456 - api.main - INFO - Processing JSON file: sample2 (1).json
+2025-06-01 01:22:58,457 - agents.json_agent - INFO - JSON analysis stored for document 7e06892c-5998-40b5-963d-5246a95124a8: general
+2025-06-01 01:22:58,457 - api.main - INFO - JSON processed: sample2 (1).json, Type: general
+2025-06-01 01:23:21,651 - api.main - INFO - File classified: sample4.json, Format: json, Intent: Complaint
+2025-06-01 01:23:21,652 - api.main - INFO - Processing JSON file: sample4.json
+2025-06-01 01:23:21,653 - agents.json_agent - INFO - JSON analysis stored for document 93a89564-417e-40b5-86c3-806714bd4e87: general
+2025-06-01 01:23:21,653 - api.main - INFO - JSON processed: sample4.json, Type: general
+2025-06-01 01:27:18,784 - api.main - INFO - File classified: sample4.eml, Format: email, Intent: Complaint
+2025-06-01 01:27:18,788 - api.main - INFO - Email processed: sample4.eml, Type: personal
+2025-06-01 01:27:45,413 - api.main - INFO - File classified: sample4.eml, Format: email, Intent: Complaint
+2025-06-01 01:27:45,416 - api.main - INFO - Email processed: sample4.eml, Type: personal
+2025-06-01 01:30:27,724 - api.main - INFO - File classified: sample2.eml, Format: email, Intent: Complaint
+2025-06-01 01:30:27,734 - api.main - INFO - Email processed: sample2.eml, Type: general
+2025-06-01 01:45:14,170 - api.main - INFO - File classified: sample2 (1).json, Format: json, Intent: Fraud Risk
+2025-06-01 01:45:14,171 - api.main - INFO - Processing JSON file: sample2 (1).json
+2025-06-01 01:45:14,172 - agents.json_agent - INFO - JSON analysis stored for document e2d8192b-ba5f-45f1-a97e-f0bdc2b10aba: general
+2025-06-01 01:45:14,172 - api.main - INFO - JSON processed: sample2 (1).json, Type: general
+2025-06-01 01:45:50,648 - api.main - INFO - File classified: sample6.eml, Format: email, Intent: Complaint
+2025-06-01 01:45:50,651 - api.main - INFO - Email processed: sample6.eml, Type: general
+2025-06-01 10:31:16,002 - agents.classifier_agent - INFO - Classifying document: temp_files\sample7.eml
+2025-06-01 10:31:16,021 - agents.email_agent - INFO - Processing email file: temp_files\sample7.eml
+2025-06-01 10:32:00,379 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 10:32:06,882 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 10:32:29,632 - agents.classifier_agent - INFO - Classifying document: temp_files\sample5.eml
+2025-06-01 10:32:29,635 - agents.email_agent - INFO - Processing email file: temp_files\sample5.eml
+2025-06-01 10:32:47,027 - agents.classifier_agent - INFO - Classifying document: temp_files\sample7.eml
+2025-06-01 10:32:47,032 - agents.email_agent - INFO - Processing email file: temp_files\sample7.eml
+2025-06-01 10:33:01,717 - agents.classifier_agent - INFO - Classifying document: temp_files\sample6.eml
+2025-06-01 10:33:01,720 - agents.email_agent - INFO - Processing email file: temp_files\sample6.eml
+2025-06-01 10:33:09,220 - router.action_router - INFO - Executing action 'escalate' for document 27be453c-c689-4431-a72e-d6ff6ce9cd40
+2025-06-01 10:33:09,220 - router.action_router - INFO - Simulating POST call to /crm/escalate with data: {'document_id': '27be453c-c689-4431-a72e-d6ff6ce9cd40', 'priority': 'high', 'reason': 'Customer complaint requiring immediate attention'}
+2025-06-01 10:33:09,220 - router.action_router - INFO - Action 'escalate' executed successfully for sample6.eml
+2025-06-01 10:33:25,436 - router.action_router - INFO - Executing action 'escalate' for document 27be453c-c689-4431-a72e-d6ff6ce9cd40
+2025-06-01 10:33:25,437 - router.action_router - INFO - Simulating POST call to /crm/escalate with data: {'document_id': '27be453c-c689-4431-a72e-d6ff6ce9cd40', 'priority': 'high', 'reason': 'Customer complaint requiring immediate attention'}
+2025-06-01 10:33:25,437 - router.action_router - INFO - Action 'escalate' executed successfully for sample6.eml
+2025-06-01 10:33:48,412 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 10:38:48,127 - agents.classifier_agent - INFO - Classifying document: temp_files\sample A email.eml
+2025-06-01 10:38:48,139 - agents.email_agent - INFO - Processing email file: temp_files\sample A email.eml
+2025-06-01 10:40:21,341 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email P.eml
+2025-06-01 10:40:21,355 - agents.email_agent - INFO - Processing email file: temp_files\sample email P.eml
+2025-06-01 10:41:17,483 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email O.eml
+2025-06-01 10:41:17,500 - agents.email_agent - INFO - Processing email file: temp_files\sample email O.eml
+2025-06-01 10:42:33,327 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email U S email.eml
+2025-06-01 10:42:33,344 - agents.email_agent - INFO - Processing email file: temp_files\sample email U S email.eml
+2025-06-01 10:52:11,418 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email U S email.eml
+2025-06-01 10:52:11,421 - agents.email_agent - INFO - Processing email file: temp_files\sample email U S email.eml
+2025-06-01 10:52:19,870 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 10:52:25,773 - agents.classifier_agent - INFO - Classifying document: temp_files\sample A email.eml
+2025-06-01 10:52:25,776 - agents.email_agent - INFO - Processing email file: temp_files\sample A email.eml
+2025-06-01 10:52:37,915 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email P.eml
+2025-06-01 10:52:37,918 - agents.email_agent - INFO - Processing email file: temp_files\sample email P.eml
+2025-06-01 10:52:55,333 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email O.eml
+2025-06-01 10:52:55,338 - agents.email_agent - INFO - Processing email file: temp_files\sample email O.eml
+2025-06-01 10:53:07,028 - router.action_router - INFO - Executing action 'log' for document 04292403-d213-40d1-8c4f-9a7fe73a3164
+2025-06-01 10:53:07,028 - router.action_router - INFO - Action 'log' executed successfully for sample email O.eml
+2025-06-01 10:53:25,050 - api.main - ERROR - Error displaying metrics: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 299, in dashboard_metrics
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 10:53:26,948 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 10:58:19,561 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email O.eml
+2025-06-01 10:58:19,566 - agents.email_agent - INFO - Processing email file: temp_files\sample email O.eml
+2025-06-01 10:58:48,503 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email U S email.eml
+2025-06-01 10:58:48,505 - agents.email_agent - INFO - Processing email file: temp_files\sample email U S email.eml
+2025-06-01 10:58:59,020 - router.action_router - INFO - Executing action 'escalate' for document 3d9c66b2-e06e-4f86-a714-3defd0761b21
+2025-06-01 10:58:59,020 - router.action_router - INFO - Simulating POST call to /crm/escalate with data: {'document_id': '3d9c66b2-e06e-4f86-a714-3defd0761b21', 'priority': 'high', 'reason': 'Customer complaint requiring immediate attention'}
+2025-06-01 10:58:59,021 - router.action_router - INFO - Action 'escalate' executed successfully for sample email U S email.eml
+2025-06-01 10:59:07,192 - agents.classifier_agent - INFO - Classifying document: temp_files\sample A email.eml
+2025-06-01 10:59:07,195 - agents.email_agent - INFO - Processing email file: temp_files\sample A email.eml
+2025-06-01 10:59:21,397 - router.action_router - INFO - Executing action 'escalate' for document da6a3d74-7d22-43f1-bf30-ed1acf43051f
+2025-06-01 10:59:21,397 - router.action_router - INFO - Simulating POST call to /crm/escalate with data: {'document_id': 'da6a3d74-7d22-43f1-bf30-ed1acf43051f', 'priority': 'high', 'reason': 'Customer complaint requiring immediate attention'}
+2025-06-01 10:59:21,397 - router.action_router - INFO - Action 'escalate' executed successfully for sample A email.eml
+2025-06-01 10:59:38,228 - agents.classifier_agent - INFO - Classifying document: temp_files\sample_pdf3 (1).pdf
+2025-06-01 10:59:38,265 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample_pdf3 (1).pdf
+2025-06-01 10:59:49,286 - router.action_router - INFO - Executing action 'compliance_review' for document 34abe67e-52ce-44de-a5a9-73be49eebf15
+2025-06-01 10:59:49,286 - router.action_router - INFO - Simulating POST call to /compliance/review with data: {'document_id': '34abe67e-52ce-44de-a5a9-73be49eebf15', 'reason': 'Policy document containing regulatory references'}
+2025-06-01 10:59:49,286 - router.action_router - INFO - Action 'compliance_review' executed successfully for sample_pdf3 (1).pdf
+2025-06-01 11:05:33,474 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf invo.pdf
+2025-06-01 11:05:33,522 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf invo.pdf
+2025-06-01 11:06:44,002 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf ploi.pdf
+2025-06-01 11:06:44,095 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf ploi.pdf
+2025-06-01 11:08:44,873 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf gener.pdf
+2025-06-01 11:08:44,950 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf gener.pdf
+2025-06-01 11:14:13,191 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf ploi.pdf
+2025-06-01 11:14:13,272 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf ploi.pdf
+2025-06-01 11:16:37,385 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf gener.pdf
+2025-06-01 11:16:37,453 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf gener.pdf
+2025-06-01 11:18:23,256 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf invo.pdf
+2025-06-01 11:18:23,305 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf invo.pdf
+2025-06-01 11:26:35,593 - agents.classifier_agent - INFO - Classifying document: temp_files\Koppada Prudhvi Vinayak Resume 4th year.pdf
+2025-06-01 11:26:35,772 - agents.pdf_agent - INFO - Processing PDF file: temp_files\Koppada Prudhvi Vinayak Resume 4th year.pdf
+2025-06-01 11:42:21,151 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf gener.pdf
+2025-06-01 11:42:21,223 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf gener.pdf
+2025-06-01 11:42:32,543 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 11:43:53,028 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf ploi.pdf
+2025-06-01 11:43:53,142 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf ploi.pdf
+2025-06-01 11:45:07,654 - agents.classifier_agent - INFO - Classifying document: temp_files\Tejaswini Koppada (s).pdf
+2025-06-01 11:45:07,777 - agents.pdf_agent - INFO - Processing PDF file: temp_files\Tejaswini Koppada (s).pdf
+2025-06-01 11:45:41,578 - agents.classifier_agent - INFO - Classifying document: temp_files\Koppada Prudhvi Vinayak Resume 4th year.pdf
+2025-06-01 11:45:41,749 - agents.pdf_agent - INFO - Processing PDF file: temp_files\Koppada Prudhvi Vinayak Resume 4th year.pdf
+2025-06-01 11:46:18,033 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf invo.pdf
+2025-06-01 11:46:18,077 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf invo.pdf
+2025-06-01 11:52:44,671 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email O.eml
+2025-06-01 11:52:44,677 - agents.email_agent - INFO - Processing email file: temp_files\sample email O.eml
+2025-06-01 11:54:01,531 - agents.classifier_agent - INFO - Classifying document: temp_files\sample4.json
+2025-06-01 11:54:01,534 - agents.json_agent - INFO - Processing JSON file: temp_files\sample4.json
+2025-06-01 12:06:24,587 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json ord.json
+2025-06-01 12:06:24,613 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json ord.json
+2025-06-01 12:11:02,508 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json comp.json
+2025-06-01 12:11:02,524 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json comp.json
+2025-06-01 12:12:51,660 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json api.json
+2025-06-01 12:12:51,691 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json api.json
+2025-06-01 12:17:39,122 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json frau.json
+2025-06-01 12:17:39,124 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json frau.json
+2025-06-01 12:21:19,772 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json missing.json
+2025-06-01 12:21:19,790 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json missing.json
+2025-06-01 12:33:12,151 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json ord.json
+2025-06-01 12:33:12,156 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json ord.json
+2025-06-01 12:33:12,244 - api.main - ERROR - Error retrieving results: 'dict object' has no attribute 'validity'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 163, in get_results
+    return templates.TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 209, in TemplateResponse
+    return _TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 40, in __init__
+    content = template.render(context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "templates\results.html", line 270, in top-level template code
+    <p class="{% if not json_analysis.validity.is_valid %}highlight-warning{% endif %}">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'validity'
+2025-06-01 12:33:15,539 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json ord.json
+2025-06-01 12:33:15,543 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json ord.json
+2025-06-01 12:33:15,548 - api.main - ERROR - Error retrieving results: 'dict object' has no attribute 'validity'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 163, in get_results
+    return templates.TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 209, in TemplateResponse
+    return _TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 40, in __init__
+    content = template.render(context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "templates\results.html", line 270, in top-level template code
+    <p class="{% if not json_analysis.validity.is_valid %}highlight-warning{% endif %}">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'validity'
+2025-06-01 12:33:23,849 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json comp.json
+2025-06-01 12:33:23,853 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json comp.json
+2025-06-01 12:33:23,860 - api.main - ERROR - Error retrieving results: 'dict object' has no attribute 'validity'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 163, in get_results
+    return templates.TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 209, in TemplateResponse
+    return _TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 40, in __init__
+    content = template.render(context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "templates\results.html", line 270, in top-level template code
+    <p class="{% if not json_analysis.validity.is_valid %}highlight-warning{% endif %}">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'validity'
+2025-06-01 12:47:03,645 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json frau.json
+2025-06-01 12:47:03,652 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json frau.json
+2025-06-01 12:47:03,723 - api.main - ERROR - Error retrieving results: 'dict object' has no attribute 'validity'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 163, in get_results
+    return templates.TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 209, in TemplateResponse
+    return _TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 40, in __init__
+    content = template.render(context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "templates\results.html", line 270, in top-level template code
+    <p class="{% if not json_analysis.validity.is_valid %}highlight-warning{% endif %}">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'validity'
+2025-06-01 12:50:04,231 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json missing.json
+2025-06-01 12:50:04,234 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json missing.json
+2025-06-01 13:07:23,542 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json frau.json
+2025-06-01 13:07:23,545 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json frau.json
+2025-06-01 13:07:23,597 - api.main - ERROR - Error retrieving results: 'dict object' has no attribute 'validity'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 163, in get_results
+    return templates.TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 209, in TemplateResponse
+    return _TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 40, in __init__
+    content = template.render(context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "templates\results.html", line 270, in top-level template code
+    <p class="{% if not json_analysis.validity.is_valid %}highlight-warning{% endif %}">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'validity'
+2025-06-01 13:08:04,731 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email O.eml
+2025-06-01 13:08:04,736 - agents.email_agent - INFO - Processing email file: temp_files\sample email O.eml
+2025-06-01 13:08:14,355 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json api.json
+2025-06-01 13:08:14,357 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json api.json
+2025-06-01 13:08:14,364 - api.main - ERROR - Error retrieving results: 'dict object' has no attribute 'validity'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 163, in get_results
+    return templates.TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 209, in TemplateResponse
+    return _TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 40, in __init__
+    content = template.render(context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "templates\results.html", line 270, in top-level template code
+    <p class="{% if not json_analysis.validity.is_valid %}highlight-warning{% endif %}">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'validity'
+2025-06-01 13:11:28,014 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json missing.json
+2025-06-01 13:11:28,023 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json missing.json
+2025-06-01 13:11:28,084 - api.main - ERROR - Error retrieving results: 'dict object' has no attribute 'validity'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 163, in get_results
+    return templates.TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 209, in TemplateResponse
+    return _TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 40, in __init__
+    content = template.render(context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "templates\results.html", line 270, in top-level template code
+    <p class="{% if not json_analysis.validity.is_valid %}highlight-warning{% endif %}">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'validity'
+2025-06-01 13:19:17,311 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json missing.json
+2025-06-01 13:19:17,313 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json missing.json
+2025-06-01 13:19:17,374 - api.main - ERROR - Error retrieving results: 'dict object' has no attribute 'validity'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 163, in get_results
+    return templates.TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 209, in TemplateResponse
+    return _TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 40, in __init__
+    content = template.render(context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "templates\results.html", line 270, in top-level template code
+    <p class="{% if not json_analysis.validity.is_valid %}highlight-warning{% endif %}">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'validity'
+2025-06-01 13:21:31,697 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json api.json
+2025-06-01 13:21:31,703 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json api.json
+2025-06-01 13:21:31,756 - api.main - ERROR - Error retrieving results: 'dict object' has no attribute 'structure'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 163, in get_results
+    return templates.TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 209, in TemplateResponse
+    return _TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 40, in __init__
+    content = template.render(context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "templates\results.html", line 289, in top-level template code
+    <p>{{ json_analysis.structure.complexity }}</p>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'structure'
+2025-06-01 13:30:04,004 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json missing.json
+2025-06-01 13:30:04,006 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json missing.json
+2025-06-01 13:30:19,889 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json frau.json
+2025-06-01 13:30:19,892 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json frau.json
+2025-06-01 13:30:31,643 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json ord.json
+2025-06-01 13:30:31,645 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json ord.json
+2025-06-01 13:30:42,934 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json comp.json
+2025-06-01 13:30:42,938 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json comp.json
+2025-06-01 13:31:42,612 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json ord.json
+2025-06-01 13:31:42,616 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json ord.json
+2025-06-01 13:32:29,932 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json comp.json
+2025-06-01 13:32:29,937 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json comp.json
+2025-06-01 13:33:05,319 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json api.json
+2025-06-01 13:33:05,323 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json api.json
+2025-06-01 13:33:43,960 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json frau.json
+2025-06-01 13:33:43,962 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json frau.json
+2025-06-01 13:34:55,903 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json missing.json
+2025-06-01 13:34:55,905 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json missing.json
+2025-06-01 18:03:35,558 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json frau.json
+2025-06-01 18:03:35,563 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json frau.json
+2025-06-01 18:03:46,195 - router.action_router - INFO - Executing action 'technical_review' for document 88e86d64-d5de-41e8-bdf5-2f71530a06d8
+2025-06-01 18:03:46,195 - router.action_router - INFO - Simulating POST call to /tech/review with data: {'document_id': '88e86d64-d5de-41e8-bdf5-2f71530a06d8', 'reason': 'JSON anomalies or validation errors'}
+2025-06-01 18:03:46,197 - router.action_router - INFO - Action 'technical_review' executed successfully for sample json frau.json
+2025-06-01 18:03:59,336 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json comp.json
+2025-06-01 18:03:59,363 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json comp.json
+2025-06-01 18:04:16,365 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json api.json
+2025-06-01 18:04:16,370 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json api.json
+2025-06-01 18:04:35,585 - router.action_router - INFO - Executing action 'technical_review' for document aa171101-8580-4378-be45-37344a570822
+2025-06-01 18:04:35,586 - router.action_router - INFO - Simulating POST call to /tech/review with data: {'document_id': 'aa171101-8580-4378-be45-37344a570822', 'reason': 'JSON anomalies or validation errors'}
+2025-06-01 18:04:35,587 - router.action_router - INFO - Action 'technical_review' executed successfully for sample json api.json
+2025-06-01 18:04:54,630 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 18:04:56,939 - api.main - ERROR - Error displaying metrics: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 299, in dashboard_metrics
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 18:04:58,757 - api.main - ERROR - Error displaying metrics: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 299, in dashboard_metrics
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 18:05:05,447 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 18:05:13,347 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 18:05:35,451 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json ord.json
+2025-06-01 18:05:35,455 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json ord.json
+2025-06-01 18:05:38,354 - router.action_router - INFO - Executing action 'technical_review' for document 688fabec-7248-4720-aba6-92613ad04d87
+2025-06-01 18:05:38,355 - router.action_router - INFO - Simulating POST call to /tech/review with data: {'document_id': '688fabec-7248-4720-aba6-92613ad04d87', 'reason': 'JSON anomalies or validation errors'}
+2025-06-01 18:05:38,355 - router.action_router - INFO - Action 'technical_review' executed successfully for sample json ord.json
+2025-06-01 18:05:50,999 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json missing.json
+2025-06-01 18:05:51,004 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json missing.json
+2025-06-01 18:08:18,810 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 18:08:18,841 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:08:18,924 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 18:08:18,926 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:19:50,045 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 18:19:50,049 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:19:50,055 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 18:19:50,057 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:31:32,574 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 18:31:32,576 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:31:32,580 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 18:31:32,582 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:34:16,437 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 18:34:16,440 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:34:16,443 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 18:34:16,444 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:34:16,501 - api.main - ERROR - Error retrieving results: 'dict object' has no attribute 'structure'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 163, in get_results
+    return templates.TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 209, in TemplateResponse
+    return _TemplateResponse(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\starlette\templating.py", line 40, in __init__
+    content = template.render(context)
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "templates\results.html", line 289, in top-level template code
+    <p>{{ json_analysis.structure.complexity }}</p>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\Desktop\multi-agent-system\venv\Lib\site-packages\jinja2\environment.py", line 490, in getattr
+    return getattr(obj, attribute)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+jinja2.exceptions.UndefinedError: 'dict object' has no attribute 'structure'
+2025-06-01 18:36:22,015 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 18:36:22,018 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:36:22,021 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 18:36:22,022 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:36:42,316 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json api.json
+2025-06-01 18:36:42,319 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json api.json
+2025-06-01 18:37:01,764 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 18:37:01,767 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:37:01,768 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 18:37:01,771 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:42:59,501 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf gener.pdf
+2025-06-01 18:42:59,583 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf gener.pdf
+2025-06-01 18:45:36,665 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 18:45:36,668 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:45:36,672 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 18:45:36,673 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:45:36,673 - agents.json_agent - INFO - JSON analysis result: {'json_type': 'Generic JSON', 'structure': 'Generic JSON', 'document_type': 'Generic JSON', 'valid_schema': 'Invalid', 'validation_errors': 'JSON syntax error: Expecting \',\' delimiter: line 70 column 7 (char 1583)\nError context: near: "environment": "production"', 'complexity': 'Medium', 'fields_count': '0', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': False, 'needs_review': True, 'review_reason': 'JSON contains syntax errors'}
+2025-06-01 18:45:46,915 - router.action_router - INFO - Executing action 'technical_review' for document e039467b-40b1-4bff-808f-4b2316a512a6
+2025-06-01 18:45:46,916 - router.action_router - INFO - Simulating POST call to /tech/review with data: {'document_id': 'e039467b-40b1-4bff-808f-4b2316a512a6', 'reason': 'JSON anomalies or validation errors'}
+2025-06-01 18:45:46,916 - router.action_router - INFO - Action 'technical_review' executed successfully for smaple json schema.json
+2025-06-01 18:52:49,545 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 18:52:49,548 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:52:49,550 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 18:52:49,551 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:52:49,551 - agents.json_agent - INFO - JSON analysis result stored: {'structure': 'Generic JSON', 'json_type': 'Generic JSON', 'document_type': 'Generic JSON', 'valid_schema': 'Invalid', 'validation_errors': "JSON syntax error: Expecting ',' delimiter: line 70 column 7 (char 1583)", 'complexity': 'Medium', 'fields_count': '0', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': False, 'needs_review': True, 'review_reason': 'JSON contains syntax errors'}
+2025-06-01 18:53:13,982 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json ord.json
+2025-06-01 18:53:13,986 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json ord.json
+2025-06-01 18:53:13,988 - agents.json_agent - INFO - JSON analysis result stored: {'structure': 'Generic JSON', 'json_type': 'Generic JSON', 'document_type': 'Generic JSON', 'valid_schema': 'No Schema Error', 'validation_errors': 'None detected', 'complexity': 'Medium', 'fields_count': '25', 'summary': 'This is a valid Generic JSON document with 25 fields.', 'validity': True, 'needs_review': False, 'review_reason': None}
+2025-06-01 18:53:25,931 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json ord.json
+2025-06-01 18:53:25,934 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json ord.json
+2025-06-01 18:53:25,935 - agents.json_agent - INFO - JSON analysis result stored: {'structure': 'Generic JSON', 'json_type': 'Generic JSON', 'document_type': 'Generic JSON', 'valid_schema': 'No Schema Error', 'validation_errors': 'None detected', 'complexity': 'Medium', 'fields_count': '25', 'summary': 'This is a valid Generic JSON document with 25 fields.', 'validity': True, 'needs_review': False, 'review_reason': None}
+2025-06-01 18:53:40,161 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 18:53:40,163 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:53:40,165 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 18:53:40,166 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 18:53:40,166 - agents.json_agent - INFO - JSON analysis result stored: {'structure': 'Generic JSON', 'json_type': 'Generic JSON', 'document_type': 'Generic JSON', 'valid_schema': 'Invalid', 'validation_errors': "JSON syntax error: Expecting ',' delimiter: line 70 column 7 (char 1583)", 'complexity': 'Medium', 'fields_count': '0', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': False, 'needs_review': True, 'review_reason': 'JSON contains syntax errors'}
+2025-06-01 19:09:56,235 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 19:10:01,887 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 19:10:01,889 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 19:10:01,893 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 19:10:01,895 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 19:10:01,896 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 70 column 7 (char 1583)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-01 19:12:22,777 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf invo.pdf
+2025-06-01 19:12:22,825 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf invo.pdf
+2025-06-01 19:13:54,282 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 19:13:54,284 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 19:13:54,287 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 19:13:54,287 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 19:13:54,288 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 70 column 7 (char 1583)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-01 19:15:38,241 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 19:15:38,243 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 19:15:38,246 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 19:15:38,246 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 19:15:38,247 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 70 column 7 (char 1583)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-01 19:19:52,515 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 19:19:52,518 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 19:19:52,521 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 19:19:52,522 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 19:19:52,522 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 70 column 7 (char 1583)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-01 19:19:52,523 - agents.json_agent - INFO - Updated classification for JSON schema: {'format': 'json', 'intent': 'Schema Definition', 'confidence': 0.85}
+2025-06-01 19:48:06,403 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json w sche.json
+2025-06-01 19:48:06,426 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json w sche.json
+2025-06-01 19:48:06,427 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is a Generic JSON with 22 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Medium', 'fields_count': 22}, 'anomalies': []}
+2025-06-01 19:50:04,054 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json error.json
+2025-06-01 19:50:04,069 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 33 column 3 (char 554)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-01 19:50:04,070 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json error.json
+2025-06-01 19:50:04,070 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-01 19:50:04,070 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 33 column 3 (char 554)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-01 19:54:53,302 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json w sche.json
+2025-06-01 19:54:53,307 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json w sche.json
+2025-06-01 19:54:53,308 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is a Generic JSON with 22 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Medium', 'fields_count': 22}, 'anomalies': []}
+2025-06-01 20:01:41,247 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json error.json
+2025-06-01 20:01:41,250 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 33 column 3 (char 554)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-01 20:01:41,252 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json error.json
+2025-06-01 20:01:41,253 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-01 20:01:41,254 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 33 column 3 (char 554)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-01 20:02:20,619 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json w sche.json
+2025-06-01 20:02:20,623 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json w sche.json
+2025-06-01 20:02:20,624 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is a Generic JSON with 22 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Medium', 'fields_count': 22}, 'anomalies': []}
+2025-06-01 20:09:46,068 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json error.json
+2025-06-01 20:09:46,071 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 33 column 3 (char 554)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-01 20:09:46,074 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json error.json
+2025-06-01 20:09:46,075 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-01 20:09:46,075 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 33 column 3 (char 554)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-01 20:09:46,075 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Unknown', 'confidence': 0.2}
+2025-06-01 20:10:01,659 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json w sche.json
+2025-06-01 20:10:01,663 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json w sche.json
+2025-06-01 20:10:01,663 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Configuration', 'summary': 'This is a Configuration with 22 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Medium', 'fields_count': 22}, 'anomalies': []}
+2025-06-01 20:10:01,664 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Configuration', 'confidence': 0.4}
+2025-06-01 20:11:19,951 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json error.json
+2025-06-01 20:11:19,954 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 33 column 3 (char 554)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-01 20:11:19,955 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json error.json
+2025-06-01 20:11:19,956 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-01 20:11:19,956 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 33 column 3 (char 554)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-01 20:11:19,957 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Unknown', 'confidence': 0.2}
+2025-06-01 20:34:22,788 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json error.json
+2025-06-01 20:34:22,804 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 33 column 3 (char 554)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-01 20:34:22,807 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json error.json
+2025-06-01 20:34:22,807 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-01 20:34:22,808 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 33 column 3 (char 554)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-01 20:34:22,808 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Configuration', 'confidence': 0.7}
+2025-06-01 20:34:35,977 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json w sche.json
+2025-06-01 20:34:35,979 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json w sche.json
+2025-06-01 20:34:35,980 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Configuration', 'summary': 'This is a Configuration with 22 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Medium', 'fields_count': 22}, 'anomalies': []}
+2025-06-01 20:34:35,980 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Configuration', 'confidence': 0.4}
+2025-06-01 20:34:43,221 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 20:34:43,223 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 20:34:43,224 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 20:34:43,225 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 20:34:43,225 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 70 column 7 (char 1583)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-01 20:34:43,225 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Schema Definition', 'confidence': 0.4}
+2025-06-01 20:34:56,580 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json missing.json
+2025-06-01 20:34:56,582 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json missing.json
+2025-06-01 20:34:56,583 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Data Structure', 'summary': 'This is a Data Structure with 25 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Simple', 'fields_count': 25}, 'anomalies': [{'type': 'Data Issue', 'message': "Missing value for field 'customer'"}, {'type': 'Data Issue', 'message': "Missing value for field 'items[1].quantity'"}]}
+2025-06-01 20:34:56,583 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Data Structure', 'confidence': 0.3}
+2025-06-01 20:35:23,252 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json ord.json
+2025-06-01 20:35:23,266 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json ord.json
+2025-06-01 20:35:23,267 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Data Structure', 'summary': 'This is a Data Structure with 25 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Simple', 'fields_count': 25}, 'anomalies': []}
+2025-06-01 20:35:23,267 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Data Structure', 'confidence': 0.3}
+2025-06-01 20:36:08,508 - agents.classifier_agent - INFO - Classifying document: temp_files\SWOT Analysis(22A31A42A6).pdf
+2025-06-01 20:36:08,704 - agents.pdf_agent - INFO - Processing PDF file: temp_files\SWOT Analysis(22A31A42A6).pdf
+2025-06-01 20:36:24,582 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf invo.pdf
+2025-06-01 20:36:24,632 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf invo.pdf
+2025-06-01 20:36:34,388 - agents.classifier_agent - INFO - Classifying document: temp_files\sample5.eml
+2025-06-01 20:36:34,410 - agents.email_agent - INFO - Processing email file: temp_files\sample5.eml
+2025-06-01 21:11:15,135 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 21:11:17,039 - api.main - ERROR - Error displaying metrics: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 299, in dashboard_metrics
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 21:13:20,232 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 21:26:52,058 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 21:26:52,060 - api.main - ERROR - Error displaying metrics: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 299, in dashboard_metrics
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 21:26:52,062 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 21:26:52,123 - api.main - ERROR - Error displaying metrics: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 299, in dashboard_metrics
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 21:26:52,124 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 21:26:52,127 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json w sche.json
+2025-06-01 21:26:52,129 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json w sche.json
+2025-06-01 21:26:52,129 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Configuration', 'summary': 'This is a Configuration with 22 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Medium', 'fields_count': 22}, 'anomalies': []}
+2025-06-01 21:26:52,130 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Configuration', 'confidence': 0.4}
+2025-06-01 21:26:52,132 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json w sche.json
+2025-06-01 21:26:52,134 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json w sche.json
+2025-06-01 21:26:52,136 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Configuration', 'summary': 'This is a Configuration with 22 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Medium', 'fields_count': 22}, 'anomalies': []}
+2025-06-01 21:26:52,137 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Configuration', 'confidence': 0.4}
+2025-06-01 21:26:52,140 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json w sche.json
+2025-06-01 21:26:52,142 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json w sche.json
+2025-06-01 21:26:52,142 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Configuration', 'summary': 'This is a Configuration with 22 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Medium', 'fields_count': 22}, 'anomalies': []}
+2025-06-01 21:26:52,144 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Configuration', 'confidence': 0.4}
+2025-06-01 21:26:52,147 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json w sche.json
+2025-06-01 21:26:52,148 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json w sche.json
+2025-06-01 21:26:52,150 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Configuration', 'summary': 'This is a Configuration with 22 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Medium', 'fields_count': 22}, 'anomalies': []}
+2025-06-01 21:26:52,152 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Configuration', 'confidence': 0.4}
+2025-06-01 21:26:52,157 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json w sche.json
+2025-06-01 21:26:52,159 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json w sche.json
+2025-06-01 21:26:52,160 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Configuration', 'summary': 'This is a Configuration with 22 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Medium', 'fields_count': 22}, 'anomalies': []}
+2025-06-01 21:26:52,161 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Configuration', 'confidence': 0.4}
+2025-06-01 21:26:52,162 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 21:47:44,783 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 21:47:56,780 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf ploi.pdf
+2025-06-01 21:47:56,848 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf ploi.pdf
+2025-06-01 22:56:20,358 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 22:56:22,976 - api.main - ERROR - Error displaying metrics: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 299, in dashboard_metrics
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 22:56:28,938 - api.main - ERROR - Error displaying dashboard: 'MemoryStore' object has no attribute 'get_all'
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\api\main.py", line 217, in dashboard
+    all_documents = memory_store.get_all()
+                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MemoryStore' object has no attribute 'get_all'
+2025-06-01 22:57:45,395 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf ploi.pdf
+2025-06-01 22:57:45,493 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf ploi.pdf
+2025-06-01 23:33:44,696 - agents.classifier_agent - INFO - Classifying document: temp_files\smaple json schema.json
+2025-06-01 23:33:44,721 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 70 column 7 (char 1583)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 23:33:44,812 - agents.json_agent - INFO - Processing JSON file: temp_files\smaple json schema.json
+2025-06-01 23:33:44,814 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 70 column 7 (char 1583)
+2025-06-01 23:33:44,815 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 70 column 7 (char 1583)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-01 23:33:44,816 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Schema Definition', 'confidence': 0.4}
+2025-06-01 23:33:55,826 - router.action_router - INFO - Executing action 'technical_review' for document 0e18cc42-7c89-4082-bea8-6f52c6014418
+2025-06-01 23:33:55,827 - router.action_router - INFO - Simulating POST call to /tech/review with data: {'document_id': '0e18cc42-7c89-4082-bea8-6f52c6014418', 'reason': 'JSON anomalies or validation errors'}
+2025-06-01 23:33:55,828 - router.action_router - INFO - Action 'technical_review' executed successfully for smaple json schema.json
+2025-06-07 19:13:29,337 - agents.classifier_agent - INFO - Classifying document: temp_files\Tejaswini Koppada (1).pdf
+2025-06-07 19:13:29,494 - agents.pdf_agent - INFO - Processing PDF file: temp_files\Tejaswini Koppada (1).pdf
+2025-06-07 19:14:15,926 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json comp.json
+2025-06-07 19:14:15,928 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json comp.json
+2025-06-07 19:14:15,929 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Complaint', 'summary': 'This is a Complaint with 22 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Simple', 'fields_count': 22}, 'anomalies': [{'type': 'Data Issue', 'message': "Missing value for field 'assigned_to'"}]}
+2025-06-07 19:14:15,929 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Customer Service', 'confidence': 0.8}
+2025-06-07 19:14:43,296 - router.action_router - INFO - Executing action 'technical_review' for document db366a92-ee12-487e-a44a-26a2291a7694
+2025-06-07 19:14:43,297 - router.action_router - INFO - Simulating POST call to /tech/review with data: {'document_id': 'db366a92-ee12-487e-a44a-26a2291a7694', 'reason': 'JSON anomalies or validation errors'}
+2025-06-07 19:14:43,298 - router.action_router - INFO - Action 'technical_review' executed successfully for sample json comp.json
+2025-06-07 19:15:23,587 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email U S email.eml
+2025-06-07 19:15:23,594 - agents.email_agent - INFO - Processing email file: temp_files\sample email U S email.eml
+2025-06-07 19:15:36,067 - router.action_router - INFO - Executing action 'escalate' for document b5e389af-f44b-4a26-b721-902a3ebecbf2
+2025-06-07 19:15:36,067 - router.action_router - INFO - Simulating POST call to /crm/escalate with data: {'document_id': 'b5e389af-f44b-4a26-b721-902a3ebecbf2', 'priority': 'high', 'reason': 'Customer complaint requiring immediate attention'}
+2025-06-07 19:15:36,068 - router.action_router - INFO - Action 'escalate' executed successfully for sample email U S email.eml
+2025-06-21 21:17:21,830 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email U S email.eml
+2025-06-21 21:17:21,838 - agents.email_agent - INFO - Processing email file: temp_files\sample email U S email.eml
+2025-06-21 21:18:42,743 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json error.json
+2025-06-21 21:18:42,746 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 33 column 3 (char 554)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-21 21:18:42,808 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json error.json
+2025-06-21 21:18:42,810 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-21 21:18:42,811 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 33 column 3 (char 554)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-21 21:18:42,812 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Configuration', 'confidence': 0.7}
+2025-06-21 21:23:52,098 - router.action_router - INFO - Executing action 'technical_review' for document b9628bf0-7dde-4439-85bc-afc46958b212
+2025-06-21 21:23:52,098 - router.action_router - INFO - Simulating POST call to /tech/review with data: {'document_id': 'b9628bf0-7dde-4439-85bc-afc46958b212', 'reason': 'JSON anomalies or validation errors'}
+2025-06-21 21:23:52,099 - router.action_router - INFO - Action 'technical_review' executed successfully for sample json error.json
+2025-06-21 21:24:29,219 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email U S email.eml
+2025-06-21 21:24:29,223 - agents.email_agent - INFO - Processing email file: temp_files\sample email U S email.eml
+2025-06-21 21:24:32,073 - router.action_router - INFO - Executing action 'escalate' for document 7a43f884-d349-47a2-b65c-a7a325eca49c
+2025-06-21 21:24:32,074 - router.action_router - INFO - Simulating POST call to /crm/escalate with data: {'document_id': '7a43f884-d349-47a2-b65c-a7a325eca49c', 'priority': 'high', 'reason': 'Customer complaint requiring immediate attention'}
+2025-06-21 21:24:32,074 - router.action_router - INFO - Action 'escalate' executed successfully for sample email U S email.eml
+2025-06-21 21:24:51,088 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json missing.json
+2025-06-21 21:24:51,114 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json missing.json
+2025-06-21 21:24:51,115 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Data Structure', 'summary': 'This is a Data Structure with 25 total fields.', 'validity': {'is_valid': True, 'errors': []}, 'structure': {'complexity': 'Simple', 'fields_count': 25}, 'anomalies': [{'type': 'Data Issue', 'message': "Missing value for field 'customer'"}, {'type': 'Data Issue', 'message': "Missing value for field 'items[1].quantity'"}]}
+2025-06-21 21:24:51,116 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Data Structure', 'confidence': 0.3}
+2025-06-21 21:25:21,884 - agents.classifier_agent - INFO - Classifying document: temp_files\sample pdf ploi.pdf
+2025-06-21 21:25:21,967 - agents.pdf_agent - INFO - Processing PDF file: temp_files\sample pdf ploi.pdf
+2025-06-21 21:25:51,703 - router.action_router - INFO - Executing action 'compliance_review' for document fc8ed7cc-0fea-4c47-aeb9-7299b2d2e6e4
+2025-06-21 21:25:51,703 - router.action_router - INFO - Simulating POST call to /compliance/review with data: {'document_id': 'fc8ed7cc-0fea-4c47-aeb9-7299b2d2e6e4', 'reason': 'Policy document containing regulatory references'}
+2025-06-21 21:25:51,703 - router.action_router - INFO - Action 'compliance_review' executed successfully for sample pdf ploi.pdf
+2025-06-21 21:30:59,947 - agents.classifier_agent - INFO - Classifying document: temp_files\sample json error.json
+2025-06-21 21:30:59,956 - agents.classifier_agent - ERROR - Error analyzing JSON intent: Expecting ',' delimiter: line 33 column 3 (char 554)
+Traceback (most recent call last):
+  File "C:\Users\prudh\Desktop\multi-agent-system\agents\classifier_agent.py", line 201, in _analyze_json_intent
+    json_data = json.load(file)
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prudh\AppData\Local\Programs\Python\Python311\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-21 21:30:59,964 - agents.json_agent - INFO - Processing JSON file: temp_files\sample json error.json
+2025-06-21 21:30:59,965 - agents.json_agent - WARNING - JSON decode error: Expecting ',' delimiter: line 33 column 3 (char 554)
+2025-06-21 21:30:59,967 - agents.json_agent - INFO - JSON analysis completed with result structure: {'json_type': 'Generic JSON', 'summary': 'This is an invalid JSON document with syntax errors. Error context: near: "environment": "production"', 'validity': {'is_valid': False, 'errors': ["JSON syntax error: Expecting ',' delimiter: line 33 column 3 (char 554)", 'near: "environment": "production"']}, 'structure': {'complexity': 'Medium', 'fields_count': 0}, 'anomalies': []}
+2025-06-21 21:30:59,967 - agents.json_agent - INFO - Updated classification for JSON document: {'format': 'json', 'intent': 'Configuration', 'confidence': 0.7}
+2025-06-21 21:31:14,069 - router.action_router - INFO - Executing action 'technical_review' for document 016d9a60-08db-4b05-9cb5-539c8e45d862
+2025-06-21 21:31:14,069 - router.action_router - INFO - Simulating POST call to /tech/review with data: {'document_id': '016d9a60-08db-4b05-9cb5-539c8e45d862', 'reason': 'JSON anomalies or validation errors'}
+2025-06-21 21:31:14,070 - router.action_router - INFO - Action 'technical_review' executed successfully for sample json error.json
+2025-06-21 21:31:42,554 - agents.classifier_agent - INFO - Classifying document: temp_files\sample email O.eml
+2025-06-21 21:31:42,580 - agents.email_agent - INFO - Processing email file: temp_files\sample email O.eml

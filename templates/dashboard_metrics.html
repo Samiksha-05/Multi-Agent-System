@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Format AI System | Analytics Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/dashboard.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>MFAI System</h2>
+                <p class="version">v1.0.0</p>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="/" class="nav-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+                    <span>Home</span>
+                </a>
+                <a href="/dashboard" class="nav-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+                    <span>Documents</span>
+                </a>
+                <a href="/dashboard/metrics" class="nav-item active">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line></svg>
+                    <span>Analytics</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l10 6.5v7L12 22 2 15.5v-7L12 2z"/></svg>
+                    <span>Agent Status</span>
+                </a>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <div class="user-info">
+                    <div class="avatar">{{ current_user[0] | upper }}</div>
+                    <div class="details">
+                        <p class="name">{{ current_user }}</p>
+                        <p class="time">{{ current_time }}</p>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="main-header">
+                <h1>Analytics Dashboard</h1>
+                <div class="actions">
+                    <div class="export-buttons">
+                        <a href="/dashboard/metrics/export/json" class="btn btn-outline">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                            Export as JSON
+                        </a>
+                        <a href="/dashboard/metrics/export/csv" class="btn btn-primary">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                            Export as CSV
+                        </a>
+                    </div>
+                </div>
+            </header>
+            
+            <!-- Overview Section -->
+            <section class="metrics-overview">
+                <div class="metric-card">
+                    <div class="metric-icon total-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path></svg>
+                    </div>
+                    <div class="metric-data">
+                        <p class="metric-label">Total Documents</p>
+                        <h3 class="metric-value">{{ total_count }}</h3>
+                    </div>
+                </div>
+                
+                <div class="metric-card">
+                    <div class="metric-icon success-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                    </div>
+                    <div class="metric-data">
+                        <p class="metric-label">Successfully Processed</p>
+                        <h3 class="metric-value">{{ status_counts.get('analyzed', 0) }}</h3>
+                    </div>
+                </div>
+                
+                <div class="metric-card">
+                    <div class="metric-icon error-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
+                    </div>
+                    <div class="metric-data">
+                        <p class="metric-label">Errors Detected</p>
+                        <h3 class="metric-value">{{ status_counts.get('error', 0) }}</h3>
+                    </div>
+                </div>
+                
+                <div class="metric-card">
+                    <div class="metric-icon action-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg>
+                    </div>
+                    <div class="metric-data">
+                        <p class="metric-label">Actions Triggered</p>
+                        <h3 class="metric-value">{{ status_counts.get('action_triggered', 0) }}</h3>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Charts Section -->
+            <section class="charts-section">
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <div class="chart-header">
+                            <h3>Document Format Distribution</h3>
+                        </div>
+                        <div class="chart-body">
+                            <canvas id="formatChart"></canvas>
+                            <div class="chart-legend">
+                                {% for format, count in format_counts.items() %}
+                                <div class="legend-item">
+                                    <div class="legend-color" style="background-color: {{ loop.cycle('#4361ee', '#3a0ca3', '#7209b7', '#f72585', '#4cc9f0') }}"></div>
+                                    <div class="legend-text">
+                                        <span class="legend-label">{{ format }}</span>
+                                        <span class="legend-value">{{ count }} ({{ (count / total_count * 100) | round(1) }}%)</span>
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="chart-card">
+                        <div class="chart-header">
+                            <h3>Document Status</h3>
+                        </div>
+                        <div class="chart-body">
+                            <canvas id="statusChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="chart-row">
+                    <div class="chart-card full-width">
+                        <div class="chart-header">
+                            <h3>Document Processing Timeline</h3>
+                        </div>
+                        <div class="chart-body">
+                            <div id="timelineChart"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Highlights Section -->
+            <section class="highlights-section">
+                <h2>Assessment Highlights</h2>
+                
+                <div class="highlights-grid">
+                    <div class="highlight-card agent-highlight">
+                        <div class="highlight-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+                        </div>
+                        <h3>Multi-Agent System</h3>
+                        <p>Successfully implemented specialized agents for PDF, Email, and JSON processing with format-specific intelligence.</p>
+                        <div class="completion-badge">Completed</div>
+                    </div>
+                    
+                    <div class="highlight-card classifier-highlight">
+                        <div class="highlight-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 16 12 14 15 10 15 8 12 2 12"></polyline><path d="M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"></path></svg>
+                        </div>
+                        <h3>Context-Aware Classification</h3>
+                        <p>Built intelligent classifier that determines both document format and business intent for optimized processing.</p>
+                        <div class="completion-badge">Completed</div>
+                    </div>
+                    
+                    <div class="highlight-card memory-highlight">
+                        <div class="highlight-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg>
+                        </div>
+                        <h3>Shared Memory Store</h3>
+                        <p>Implemented central memory system for agents to read/write, enabling persistent document state tracking.</p>
+                        <div class="completion-badge">Completed</div>
+                    </div>
+                    
+                    <div class="highlight-card action-highlight">
+                        <div class="highlight-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                        </div>
+                        <h3>Chained Actions</h3>
+                        <p>Created dynamic action router that triggers context-specific follow-up operations based on document analysis.</p>
+                        <div class="completion-badge">Completed</div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Recent Error Documents Section -->
+            {% if error_documents %}
+            <section class="error-documents-section">
+                <h2>Recent Error Documents</h2>
+                <div class="error-list">
+                    {% for doc in error_documents %}
+                    <div class="error-item">
+                        <div class="error-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
+                        </div>
+                        <div class="error-details">
+                            <h4>{{ doc.data.metadata.filename if doc.data and doc.data.metadata else "Unknown Document" }}</h4>
+                            <p class="error-id">ID: {{ doc.document_id }}</p>
+                            <p class="error-format">
+                                Format: {{ doc.data.classification.format if doc.data and doc.data.classification else "Unknown" }} | 
+                                Intent: {{ doc.data.classification.intent if doc.data and doc.data.classification else "Unknown" }}
+                            </p>
+                        </div>
+                        <a href="/results/{{ doc.document_id }}" class="error-action">View Details</a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </section>
+            {% endif %}
+        </main>
+    </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Format Pie Chart
+        const formatCtx = document.getElementById('formatChart').getContext('2d');
+        new Chart(formatCtx, {
+            type: 'doughnut',
+            data: {
+                labels: [{% for format in format_counts %}'{{ format }}',{% endfor %}],
+                datasets: [{
+                    data: [{% for format, count in format_counts.items() %}{{ count }},{% endfor %}],
+                    backgroundColor: ['#4361ee', '#3a0ca3', '#7209b7', '#f72585', '#4cc9f0'],
+                    borderColor: '#ffffff',
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                cutout: '70%',
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        });
+        
+        // Status Bar Chart
+        const statusCtx = document.getElementById('statusChart').getContext('2d');
+        new Chart(statusCtx, {
+            type: 'bar',
+            data: {
+                labels: [{% for status in status_counts %}'{{ status }}',{% endfor %}],
+                datasets: [{
+                    label: 'Documents by Status',
+                    data: [{% for status, count in status_counts.items() %}{{ count }},{% endfor %}],
+                    backgroundColor: ['#4361ee', '#f72585', '#4cc9f0', '#3a0ca3']
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        grid: {
+                            display: true,
+                            color: 'rgba(0, 0, 0, 0.05)'
+                        }
+                    },
+                    x: {
+                        grid: {
+                            display: false
+                        }
+                    }
+                }
+            }
+        });
+        
+        // Timeline Chart
+        const timelineOptions = {
+            chart: {
+                height: 350,
+                type: 'area',
+                toolbar: {
+                    show: false
+                },
+                zoom: {
+                    enabled: false
+                }
+            },
+            dataLabels: {
+                enabled: false
+            },
+            stroke: {
+                curve: 'smooth',
+                width: 3
+            },
+            series: [{
+                name: 'Documents',
+                data: [
+                    {% for date, count in daily_counts.items() %}
+                    { x: '{{ date }}', y: {{ count }} },
+                    {% endfor %}
+                ]
+            }],
+            colors: ['#4361ee'],
+            fill: {
+                type: 'gradient',
+                gradient: {
+                    shadeIntensity: 1,
+                    opacityFrom: 0.7,
+                    opacityTo: 0.2,
+                    stops: [0, 90, 100]
+                }
+            },
+            xaxis: {
+                type: 'datetime',
+                tooltip: {
+                    enabled: false
+                }
+            },
+            yaxis: {
+                title: {
+                    text: 'Document Count'
+                }
+            },
+            tooltip: {
+                x: {
+                    format: 'dd MMM yyyy'
+                }
+            },
+            grid: {
+                borderColor: '#f1f1f1',
+                row: {
+                    colors: ['transparent']
+                }
+            }
+        };
+        
+        const timelineChart = new ApexCharts(document.querySelector("#timelineChart"), timelineOptions);
+        timelineChart.render();
+    });
+    </script>
+</body>
+</html>

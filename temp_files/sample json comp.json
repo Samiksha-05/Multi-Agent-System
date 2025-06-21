@@ -1,0 +1,29 @@
+{
+  "ticket_id": "COMP-2025-0472",
+  "submission_date": "2025-06-01",
+  "customer": {
+    "name": "Michael Rodriguez",
+    "email": "m.rodriguez@example.com",
+    "customer_id": "CUS-57392"
+  },
+  "complaint_details": {
+    "category": "Product Defect",
+    "severity": "High",
+    "product_id": "PROD-334",
+    "product_name": "Premium Wireless Headphones",
+    "purchase_date": "2025-05-10",
+    "order_id": "ORD-2025-14321"
+  },
+  "description": "Right earbud stopped working after only 3 weeks of light usage. I've tried resetting and recharging but the issue persists. This is unacceptable quality for a premium product.",
+  "communication_history": [
+    {
+      "date": "2025-06-01",
+      "channel": "email",
+      "message": "Initial complaint submitted"
+    }
+  ],
+  "requested_resolution": "Replacement",
+  "status": "Open",
+  "assigned_to": null,
+  "priority": "Medium"
+}

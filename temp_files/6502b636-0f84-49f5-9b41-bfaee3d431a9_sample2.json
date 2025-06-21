@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "amount": 1250.75,
+      "date": "2025-06-15",
+      "status": "pending"
+    },
+    {
+      "transaction_id": "TX-987654",
+      "status": "completed"
+    },
+    {
+      "transaction_id": "TX-123456",
+      "amount": "two thousand",
+      "date": "2025-05-30",
+      "status": "completed"
+    },
+    {
+      "transaction_id": "TX-ABCDEF",
+      "amount": 9999999999,
+      "date": "2030-01-01",
+      "status": "suspicious"
+    }
+  ],
+  "metadata": {
+    "source": "api.payments.example.com",
+    "generated": "2025-05-31T05:15:30Z"
+  }
+}

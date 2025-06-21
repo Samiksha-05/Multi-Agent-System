@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Format AI System | Home</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/dashboard.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>MFAI System</h2>
+                <p class="version">v1.0.0</p>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="/" class="nav-item active">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+                    <span>Home</span>
+                </a>
+                <a href="/dashboard" class="nav-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+                    <span>Documents</span>
+                </a>
+                <a href="/dashboard/metrics" class="nav-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line></svg>
+                    <span>Analytics</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l10 6.5v7L12 22 2 15.5v-7L12 2z"/></svg>
+                    <span>Agent Status</span>
+                </a>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <div class="user-info">
+                    <div class="avatar">{{ current_user[0] | upper }}</div>
+                    <div class="details">
+                        <p class="name">{{ current_user }}</p>
+                        <p class="time">{{ current_time }}</p>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="main-header">
+                <div class="header-content">
+                    <h1>Multi-Format AI System</h1>
+                    <p class="subtitle">Upload a document for intelligent processing and contextual decisioning</p>
+                </div>
+            </header>
+
+            <section class="feature-highlights">
+                <h2>System Capabilities</h2>
+                
+                <div class="highlights-grid">
+                    <div class="highlight-card agent-highlight">
+                        <div class="highlight-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+                        </div>
+                        <h3>Format Classification</h3>
+                        <p>Accurately identifies document types like Email, JSON, and PDF files.</p>
+                    </div>
+                    
+                    <div class="highlight-card classifier-highlight">
+                        <div class="highlight-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 16 12 14 15 10 15 8 12 2 12"></polyline><path d="M5.45 5.11L2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"></path></svg>
+                        </div>
+                        <h3>Intent Recognition</h3>
+                        <p>Detects business intent such as RFQ, Complaint, Invoice, Regulation or Fraud Risk.</p>
+                    </div>
+                    
+                    <div class="highlight-card memory-highlight">
+                        <div class="highlight-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg>
+                        </div>
+                        <h3>Content Analysis</h3>
+                        <p>Extracts key information from documents based on format and intent.</p>
+                    </div>
+                    
+                    <div class="highlight-card action-highlight">
+                        <div class="highlight-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                        </div>
+                        <h3>Automated Actions</h3>
+                        <p>Triggers context-specific follow-up actions based on document analysis.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="upload-section">
+                <div class="upload-card">
+                    <div class="upload-header">
+                        <h2>Upload Document</h2>
+                        <p>Supported formats: PDF, Email (.eml), JSON (.json)</p>
+                    </div>
+                    
+                    <div class="upload-body">
+                        <form action="/upload" method="post" enctype="multipart/form-data" class="upload-form">
+                            <div class="file-drop-area" id="dropArea">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+                                <p>Drag & drop your file here or</p>
+                                <label for="file" class="file-input-label">Choose File</label>
+                                <input type="file" name="file" id="file" class="file-input" required>
+                                <p id="fileNameDisplay" class="file-name"></p>
+                            </div>
+                            
+                            <div class="intent-selection">
+                                <label for="intent">Business Intent (Optional):</label>
+                                <select name="intent" id="intent">
+                                    <option value="">Auto-detect</option>
+                                    <option value="RFQ">Request For Quote (RFQ)</option>
+                                    <option value="Complaint">Complaint</option>
+                                    <option value="Invoice">Invoice</option>
+                                    <option value="Regulation">Regulation</option>
+                                    <option value="Fraud Risk">Fraud Risk</option>
+                                </select>
+                            </div>
+                            
+                            <button type="submit" class="btn btn-primary">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+                                Upload & Process
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </section>
+
+            <section class="workflow-section">
+                <h2>Intelligent Processing Workflow</h2>
+                
+                <div class="workflow-steps">
+                    <div class="workflow-step">
+                        <div class="step-number">1</div>
+                        <div class="step-content">
+                            <h3>Document Classification</h3>
+                            <p>Identifies document format (PDF, Email, JSON) and determines business intent.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="workflow-step">
+                        <div class="step-number">2</div>
+                        <div class="step-content">
+                            <h3>Specialized Processing</h3>
+                            <p>Routes to specialized agents based on format for optimal extraction and analysis.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="workflow-step">
+                        <div class="step-number">3</div>
+                        <div class="step-content">
+                            <h3>Contextual Analysis</h3>
+                            <p>Analyzes content based on format and intent to extract key information.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="workflow-step">
+                        <div class="step-number">4</div>
+                        <div class="step-content">
+                            <h3>Automated Actions</h3>
+                            <p>Triggers follow-up actions based on analysis results (alerts, summaries, etc.).</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        // File upload handling
+        const dropArea = document.getElementById('dropArea');
+        const fileInput = document.getElementById('file');
+        const fileNameDisplay = document.getElementById('fileNameDisplay');
+        
+        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
+            dropArea.addEventListener(eventName, preventDefaults, false);
+        });
+        
+        function preventDefaults(e) {
+            e.preventDefault();
+            e.stopPropagation();
+        }
+        
+        ['dragenter', 'dragover'].forEach(eventName => {
+            dropArea.addEventListener(eventName, highlight, false);
+        });
+        
+        ['dragleave', 'drop'].forEach(eventName => {
+            dropArea.addEventListener(eventName, unhighlight, false);
+        });
+        
+        function highlight() {
+            dropArea.classList.add('highlight');
+        }
+        
+        function unhighlight() {
+            dropArea.classList.remove('highlight');
+        }
+        
+        dropArea.addEventListener('drop', handleDrop, false);
+        
+        function handleDrop(e) {
+            const dt = e.dataTransfer;
+            const files = dt.files;
+            
+            if (files.length) {
+                fileInput.files = files;
+                updateFileName();
+            }
+        }
+        
+        fileInput.addEventListener('change', updateFileName);
+        
+        function updateFileName() {
+            if (fileInput.files.length) {
+                fileNameDisplay.textContent = fileInput.files[0].name;
+                dropArea.classList.add('has-file');
+            } else {
+                fileNameDisplay.textContent = '';
+                dropArea.classList.remove('has-file');
+            }
+        }
+    </script>
+</body>
+</html>

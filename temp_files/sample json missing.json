@@ -1,0 +1,36 @@
+{
+  "shipment_id": "SHP-20250601-4432",
+  "customer": null,
+  "items": [
+    {
+      "sku": "ITM-6745",
+      "quantity": "17",
+      "price": true
+    },
+    {
+      "sku": "ITM-9981",
+      "quantity": null,
+      "price": 99.99
+    },
+    {
+      "sku": "ITM-1123",
+      "quantity": 3
+    }
+  ],
+  "shipping_address": {
+    "street": "",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": 90001
+  },
+  "weight": "unknown",
+  "dimensions": {
+    "length": 10.5,
+    "width": "twelve",
+    "height": 8
+  },
+  "status": "pending",
+  "estimated_delivery": "2025-06-05T00:00:00Z",
+  "special_instructions": "Leave at door if no answer\nRequires signature: true",
+  "contact_phone": "+1-INVALID"
+}

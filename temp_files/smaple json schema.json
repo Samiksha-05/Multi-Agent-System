@@ -1,0 +1,73 @@
+{
+  "purchase_order": {
+    "po_number": "PO-2025-12345",
+    "date": "2025-06-01T12:37:19Z",
+    "supplier": {
+      "id": "SUPP-789",
+      "name": "Global Electronics Inc.",
+      "contact": "procurement@globalelectronics.example"
+    },
+    "items": [
+      {
+        "item_id": "SKU-001",
+        "description": "High-capacity server",
+        "quantity": "5",
+        "unit_price": 2499.99
+      },
+      {
+        "item_id": "SKU-002",
+        "description": "Network switch",
+        "quantity": 3,
+        "unit_price": "899.50"
+      },
+      {
+        "item_id": "SKU-003",
+        "description": "Backup power supply",
+        "quantity": true,
+        "unit_price": 349.95
+      }
+    ],
+    "shipping_address": {
+      "street": "123 Corporate Plaza",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": 94105
+    },
+    "billing_address": {
+      "street": "123 Corporate Plaza",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94105"
+    },
+    "payment_terms": "Net 30",
+    "subtotal": 17248.42,
+    "tax": "1724.84",
+    "shipping": null,
+    "discount": -500,
+    "total": 18473.26
+  },
+  "approval": {
+    "required": true,
+    "status": "pending",
+    "approvers": [
+      {
+        "name": "Jane Director",
+        "department": "Procurement",
+        "approved": false
+      },
+      {
+        "name": "John Manager",
+        "department": "IT",
+        "approved": null
+      }
+    ]
+  },
+  "metadata": {
+    "created_by": "Prudhvi-Vinayak",
+    "created_at": "2025-06-01T12:37:19Z",
+    "system": {
+      "version": 2.1
+      "environment": "production"
+    }
+  }
+}

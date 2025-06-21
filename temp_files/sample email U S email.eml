@@ -1,0 +1,20 @@
+From: security.team@partnercompany.com
+To: security@yourcompany.com
+Subject: CRITICAL: Security vulnerability detected in shared API
+
+URGENT SECURITY NOTIFICATION
+
+Our security team has detected a potential vulnerability in the API shared between our systems. This vulnerability could potentially expose customer data and needs IMMEDIATE attention.
+
+Details:
+- Vulnerability type: Authentication bypass in API endpoint /v2/users
+- Severity: Critical
+- Potential impact: Unauthorized access to user accounts
+
+Please acknowledge receipt of this alert ASAP and initiate your security incident response procedure. We have temporarily disabled our connection to the affected endpoint.
+
+We need to coordinate our response immediately.
+
+Security Team
+Partner Company
+

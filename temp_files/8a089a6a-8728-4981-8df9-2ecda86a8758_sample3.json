@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "user_id": "USR-12345",
+      "name": "John Smith",
+      "email": "john@example.com",
+      "subscription_type": "premium",
+      "last_login": "2025-05-30T14:22:10Z"
+    },
+    {
+      "id": 2,
+      "user_id": "USR-67890",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "subscription_type": "basic",
+      "last_login": "2025-05-29T09:15:45Z"
+    },
+    {
+      "id": 3,
+      "user_id": "USR-ABCDE",
+      "name": "Robert Johnson",
+      "email": "robert@example.com",
+      "subscription_type": "premium",
+      "last_login": "2025-05-31T03:45:20Z"
+    }
+  ],
+  "metadata": {
+    "page": 1,
+    "per_page": 25,
+    "total_count": 3,
+    "timestamp": "2025-05-31T05:00:00Z"
+  },
+  "status": "success",
+  "code": 200
+}

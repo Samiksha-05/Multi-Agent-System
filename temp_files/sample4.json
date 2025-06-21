@@ -1,0 +1,32 @@
+{
+  "document_id": "doc-87654",
+  "status": "analyzed",
+  "data": {
+    "metadata": {
+      "filename": "angry_email.eml",
+      "content_type": "message/rfc822",
+      "size": 2048,
+      "upload_time": "2025-05-31T14:20:15Z"
+    },
+    "classification": {
+      "format": "email",
+      "intent": "complaint",
+      "confidence": 0.98
+    },
+    "email_analysis": {
+      "email_type": "complaint",
+      "sender": "frustrated.customer@example.com",
+      "recipient": "support@yourcompany.com",
+      "subject": "URGENT! Missing items in order",
+      "urgency": "high",
+      "tone": "angry",
+      "extracted_data": {
+        "order_number": "ORD-9876",
+        "issue": "missing items",
+        "deadline_mentioned": "48 hours",
+        "escalation_threat": true
+      },
+      "actions_required": ["immediate_escalation"]
+    }
+  }
+}

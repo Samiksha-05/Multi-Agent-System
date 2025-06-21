@@ -1,0 +1,33 @@
+{
+  "name": "Product Configuration",
+  "version": "1.0.0",
+  "environment": "production",
+  "settings": {
+    "timeout": 30,
+    "retries": 3,
+    "debug": false
+  },
+  "database": {
+    "host": "db.example.com",
+    "port": 5432,
+    "username": "admin",
+    "password": "secure123"
+  },
+  "features": [
+    {
+      "id": "feature1",
+      "enabled": true,
+      "parameters": {
+        "threshold": 0.75
+      }
+    },
+    {
+      "id": "feature2",
+      "enabled": false
+    }
+  ],
+  "logging": {
+    "level": "info",
+    "path": "/var/log/app"
+  }
+}

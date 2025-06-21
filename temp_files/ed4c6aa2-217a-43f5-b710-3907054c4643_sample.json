@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": "1234-5678-9012",
+      "name": "Test Product",
+      "description": "This is a sample product for testing",
+      "price": 99.99,
+      "category": "Test",
+      "tags": ["sample", "test", "demo"],
+      "inStock": true
+    },
+    {
+      "id": "9876-5432-1098",
+      "name": "Another Product",
+      "description": "Another sample product for testing",
+      "price": 149.99,
+      "category": "Demo",
+      "tags": ["premium", "sample"],
+      "inStock": false
+    }
+  ],
+  "metadata": {
+    "totalCount": 2,
+    "page": 1,
+    "pageSize": 10,
+    "timestamp": "2025-05-30T12:34:56Z",
+    "source": "Test System",
+    "contactEmail": "support@example.com"
+  }
+}
